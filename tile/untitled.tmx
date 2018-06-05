@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="64" tileheight="64" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="Dungeon_A1_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="新增資料夾 (4)/Dungeon_A1_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="193" name="Outside_A5_resized" tilewidth="64" tileheight="64" tilecount="128" columns="8">
+  <image source="新增資料夾 (4)/Outside_A5_resized.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="321" name="Outside_B_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="新增資料夾 (4)/Outside_B_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="577" name="SF_Inside_C_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="新增資料夾 (4)/SF_Inside_C_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="833" name="Inside_B_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="新增資料夾 (4)/Inside_B_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1089" name="Dungeon_C_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="新增資料夾 (4)/Dungeon_C_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1345" name="Inside_B_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="新增資料夾 (4)/Inside_B_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="圖塊層 1" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACrvKwMBwdRSPaBzDwsAQC8RxLNQxzwdoji8Q+1HJPGq7bxQPXQwAd+xrx7AEAAA=
+  </data>
+ </layer>
+ <layer name="圖塊層 2" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACp1SWw4CMQika+s9fFzAx/0P4RnUA9THt1RLMpmltkpCCMsyzEBFfrdb+MTVJLKe+nXL0bA31LjTuCe8WPMc5vUMczbq2wYf5DRiNofnGUYmLM5b375xig7vO2F4//Tm4YzWvc5R5KJ+jT4G9p0Az7vXm7fiPNSf6hPUi56RW7HFJJLUl2muqXA4VMzCxdPIt+ecd4e6PI0B8tZOR2zh9OE8rBtHfhNsqCV09lDM+Hs6/tFm9zg6e2u9lxFM63sB9KC4k7AEAAA=
+  </data>
+ </layer>
+ <layer name="圖塊層 3" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAW0BIUs+PmkgkYW/HxSwUSg/rOMqHxKAMx/MDOp5d+7jBAzqeFffPxRMLgBAD7+akewBAAA
+  </data>
+ </layer>
+ <layer name="圖塊層 4" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACmNgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+</map>
