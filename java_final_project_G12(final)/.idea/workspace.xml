@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="435fe064-f27a-4257-be98-de08e372726b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Castle1_s.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Castle/Castle1_s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2109">
+              <caret line="119" column="49" selection-start-line="119" selection-start-column="49" selection-end-line="119" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Startforest_s.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Starting_forest/Startforest_s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2185">
+              <caret line="123" selection-start-line="123" selection-end-line="123" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Town1_s.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Town1/Town1_s.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2014">
+              <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gamestart.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bossbattle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/battle/bossbattle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="326" column="6" selection-start-line="326" selection-start-column="6" selection-end-line="326" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Castle1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Castle/Castle1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1687">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Winner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Menu/Winner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Update.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Get_Update_data/Update.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3477">
+              <caret line="183" column="92" selection-start-line="183" selection-start-column="92" selection-end-line="183" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Get.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Get_Update_data/Get.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Statement statement = object.createStatement();</find>
+      <find>image source=&quot;</find>
+      <find>新增資料夾 (4)/</find>
+      <find>terrain</find>
+      <find>rend</find>
+      <find>door</find>
+      <find>getdata</find>
+      <find>extract</find>
+      <find>NAtives</find>
+      <find>/src</find>
+      <find>src</find>
+      <find>srd</find>
+      <find>src/</find>
+      <find>/src/</find>
+      <find>bossdelay</find>
+      <find>graphics.drawImage(status_music,1030,400)</find>
+      <find>graphics.drawImage(status_music,1030,400);</find>
+      <find>select_test</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Statement statement = object.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_UPDATABLE);</replace>
+      <replace>g12</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/gamestart/gamestart.java" />
+        <option value="$PROJECT_DIR$/src/Connect_Database/Connect.java" />
+        <option value="$PROJECT_DIR$/src/Town1/town.java" />
+        <option value="$PROJECT_DIR$/src/Source/starting_forest.tmx" />
+        <option value="$PROJECT_DIR$/src/Castle/castle1.java" />
+        <option value="$PROJECT_DIR$/src/Castle/castle2.java" />
+        <option value="$PROJECT_DIR$/src/Castle/castle3.java" />
+        <option value="$PROJECT_DIR$/src/Castle/castleshop.java" />
+        <option value="$PROJECT_DIR$/src/Town1/town1.java" />
+        <option value="$PROJECT_DIR$/src/Town2/town2.java" />
+        <option value="$PROJECT_DIR$/src/Starting_forest/startforest.java" />
+        <option value="$PROJECT_DIR$/src/Forest1/forest1.java" />
+        <option value="$PROJECT_DIR$/src/Forest2/forest2.java" />
+        <option value="$PROJECT_DIR$/src/Control_Introduction/introduction.java" />
+        <option value="$PROJECT_DIR$/src/Statue/statue.java" />
+        <option value="$PROJECT_DIR$/src/Menu/menu.java" />
+        <option value="$PROJECT_DIR$/src/Get_Update_data/get.java" />
+        <option value="$PROJECT_DIR$/src/Statue/Statue.java" />
+        <option value="$PROJECT_DIR$/src/Forest1/Forest1.java" />
+        <option value="$PROJECT_DIR$/src/Forest1/Forest1_s.java" />
+        <option value="$PROJECT_DIR$/src/Forest2/Forest2.java" />
+        <option value="$PROJECT_DIR$/src/Forest2/Forest2_s.java" />
+        <option value="$PROJECT_DIR$/src/Town2/Town2.java" />
+        <option value="$PROJECT_DIR$/src/Town2/Town2_s.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle2_s.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle3_s.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castleshop_s.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle3.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle2.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castleshop.java" />
+        <option value="$PROJECT_DIR$/src/Resource/castle.tmx" />
+        <option value="$PROJECT_DIR$/src/Resource/town1.tmx" />
+        <option value="$PROJECT_DIR$/src/Resource/untitledtown.tmx" />
+        <option value="$PROJECT_DIR$/src/Resource/town.tmx" />
+        <option value="$PROJECT_DIR$/src/Menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/Starting_forest/Startforest.java" />
+        <option value="$PROJECT_DIR$/src/Town1/Town1.java" />
+        <option value="$PROJECT_DIR$/src/Town1/Town1_t.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle1_t.java" />
+        <option value="$PROJECT_DIR$/src/Starting_forest/Startforest_t.java" />
+        <option value="$PROJECT_DIR$/src/Control_Introduction/Introduction.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle1.java" />
+        <option value="$PROJECT_DIR$/src/Menu/Winner.java" />
+        <option value="$PROJECT_DIR$/src/Menu/Lose.java" />
+        <option value="$PROJECT_DIR$/src/Castle/Castle1_s.java" />
+        <option value="$PROJECT_DIR$/src/Starting_forest/Startforest_s.java" />
+        <option value="$PROJECT_DIR$/src/Town1/Town1_s.java" />
+        <option value="$PROJECT_DIR$/src/Gamestart/gamestart.java" />
+        <option value="$PROJECT_DIR$/src/Get_Update_data/Update.java" />
+        <option value="$PROJECT_DIR$/src/Get_Update_data/Get.java" />
+        <option value="$PROJECT_DIR$/src/battle/bossbattle.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="615" />
+    <option name="y" value="55" />
+    <option name="width" value="1130" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="battle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Castle" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Control_Introduction" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Gamestart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Get_Update_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Starting_forest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Statue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java_final_project_G12" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java_final_project_G12" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Town1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/楊竣程/Desktop/java_final_project_G12/src/Gamestart/gamestart.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/JDBC/mysql-connector-java-5.1.30-bin.jar!/" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\Resource" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\libs\jars" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\libs\natives" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\src\Resource\battle" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\src\Resource" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\Resource" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\src" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\src\Resource\character" />
+      <recent name="C:\Users\楊竣程\Desktop\java_final_project_G12\src\Resource\battle" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="gamestart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="D:\Program File\JavaJDK\jre" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Gamestart.gamestart" />
+      <module name="java_final_project_G12" />
+      <option name="VM_PARAMETERS" value="-Djava.library.path=natives" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.gamestart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info id="DB Browser" order="2" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32524964" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50065106" side_tool="true" weight="0.25677603" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49934897" weight="0.24536377" />
+      <window_info id="Designer" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1438802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39800286" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3281027" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Connect_Database/Connect.java" />
+    <entry file="file://$PROJECT_DIR$/Resource/starting_forest.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/jars/slick.jar!/org/newdawn/slick/state/GameState.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Forest1/Forest1.java" />
+    <entry file="file://$PROJECT_DIR$/src/Town2/Town2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Town2/Town2_s.java" />
+    <entry file="file://$PROJECT_DIR$/src/Forest2/Forest2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Forest2/Forest2_s.java" />
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle2_s.java" />
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle3_s.java" />
+    <entry file="file://$PROJECT_DIR$/src/Forest1/Forest1_s.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/java_final_project_G12/Gamestart/gamestart.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle3.java" />
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle2.java" />
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castleshop.java" />
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castleshop_s.java" />
+    <entry file="jar://$PROJECT_DIR$/libs/jars/slick.jar!/org/newdawn/slick/util/ResourceLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/libs/jars/slick.jar!/org/newdawn/slick/state/StateBasedGame.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/status_button/weapon/button_sword.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/status_button/button_medicine-large-hp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/status_button/button_medicine-small-hp.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resource/castle.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource/town1.tmx" />
+    <entry file="file://$PROJECT_DIR$/src/Resource/untitledtown.tmx" />
+    <entry file="file://$PROJECT_DIR$/Resource/town.tmx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="76" column="45" lean-forward="true" selection-start-line="76" selection-start-column="45" selection-end-line="76" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Resource/battle/button_medicine-small.png" />
+    <entry file="file://$PROJECT_DIR$/src/TKUTD.class" />
+    <entry file="file://$PROJECT_DIR$/src/Town1/Town1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="126" column="8" selection-start-line="126" selection-start-column="8" selection-end-line="129" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starting_forest/Startforest_t.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle1_t.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Town1/Town1_t.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starting_forest/Startforest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1691">
+          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="103" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Control_Introduction/Introduction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menu/Lose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="31" column="29" selection-start-line="31" selection-start-column="29" selection-end-line="31" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Statue/Statue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle1_s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2109">
+          <caret line="119" column="49" selection-start-line="119" selection-start-column="49" selection-end-line="119" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Starting_forest/Startforest_s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2185">
+          <caret line="123" selection-start-line="123" selection-end-line="123" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Town1/Town1_s.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2014">
+          <caret line="114" column="47" selection-start-line="114" selection-start-column="47" selection-end-line="114" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Gamestart/gamestart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Menu/Winner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Get_Update_data/Update.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3477">
+          <caret line="183" column="92" selection-start-line="183" selection-start-column="92" selection-end-line="183" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Get_Update_data/Get.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/battle/bossbattle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="326" column="6" selection-start-line="326" selection-start-column="6" selection-end-line="326" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Castle/Castle1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1687">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>java_final_project_G12:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java_final_project_G12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>mysql-connector-java-5.1.30-bin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.5" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="64" tileheight="64" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="Outside_A2_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="Outside_A2_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="193" name="Outside_A3_resized" tilewidth="64" tileheight="64" tilecount="128" columns="16">
+  <image source="Outside_A3_resized.png" width="1024" height="512"/>
+ </tileset>
+ <tileset firstgid="321" name="Dungeon_A5_resized" tilewidth="64" tileheight="64" tilecount="128" columns="8">
+  <image source="Dungeon_A5_resized.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="449" name="Outside_B_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="Outside_B_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="705" name="SF_Outside_B_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="SF_Outside_B_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="961" name="Inside_C_resized" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="Inside_C_resized.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="1217" name="Inside_A4_resized" tilewidth="64" tileheight="64" tilecount="240" columns="16">
+  <image source="Inside_A4_resized.png" width="1024" height="960"/>
+ </tileset>
+ <tileset firstgid="1457" name="Outside_A4" tilewidth="64" tileheight="64" tilecount="240" columns="16">
+  <image source="Outside_A4.png" width="1024" height="960"/>
+ </tileset>
+ <tileset firstgid="1697" name="Dungeon_A1_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="Dungeon_A1_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="1889" name="Dungeon_A2_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="Dungeon_A2_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="2081" name="!Door1_resized" tilewidth="64" tileheight="64" tilecount="96" columns="12">
+  <image source="!Door1_resized.png" width="768" height="512"/>
+ </tileset>
+ <tileset firstgid="2177" name="SF_Outside_A5_resized" tilewidth="64" tileheight="64" tilecount="128" columns="8">
+  <image source="SF_Outside_A5_resized.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="2305" name="Outside_C" tilewidth="64" tileheight="64" tilecount="256" columns="16">
+  <image source="Outside_C.png" width="1024" height="1024"/>
+ </tileset>
+ <tileset firstgid="2561" name="Dungeon_A2_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="Dungeon_A2_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="2753" name="Outside_A2_resized" tilewidth="64" tileheight="64" tilecount="192" columns="16">
+  <image source="Outside_A2_resized.png" width="1024" height="768"/>
+ </tileset>
+ <tileset firstgid="2945" name="SF_Outside_A5_resized" tilewidth="64" tileheight="64" tilecount="96" columns="12">
+  <image source="!Door1_resized.png" width="768" height="512"/>
+ </tileset>
+ <layer name="0" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC1vIwcCwcBQPKSzEMPBuwOUufG7jYkCoIaSW2naP4uGBATqfTZCwBAAA
+  </data>
+ </layer>
+ <layer name="圖塊層 1" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC6WUQRKCMAxFU3YsegVvgBtdoydQToDu2NMbwMW8kd5A26EZ4jcFmf6ZP6GleaRthoqIqgzv6FvWuy6JTsLnkv6WVcYXn38VbhK8sZhi76OLtvAujFuffxO+C14NNTML6+sF7xn9EpHVKt/AfNzvO5rMHFkHM/kY54ZiZkk5hd+Z33VLGhUu8nJtRa0bcx8pXhDe45q0M5T71e6Rc7j+ARhu4fzwHlO18LPsXzmH/bNVnK/1iyatJzQeK+ffErwH3gfbO7DXsAQAAA==
+  </data>
+ </layer>
+ <layer name="圖塊層 3" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgYGDQoxATA94zMTA0M2GK4eMTC9DNJQcUU2gGKxMqTSkQBZrjzgShYaAIyGYEYhVmCD0KcAM7TgYGeyB24KSOeXFAc+KBOIFK5oHiz4OJOvF4H4sZxIhhUwMC2PIhMWK48i81yxcAppbPk7AEAAA=
+  </data>
+ </layer>
+ <layer name="圖塊層 2" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgwA7KmAiLYVODC7RhUYsuhk3NKBgFo2AUwAAAnll6lrAEAAA=
+  </data>
+ </layer>
+ <layer name="圖塊層 5" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+ <layer name="圖塊層 6" width="20" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBSMgqEBAGlKTgywBAAA
+  </data>
+ </layer>
+</map>

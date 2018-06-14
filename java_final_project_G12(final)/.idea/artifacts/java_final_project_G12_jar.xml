@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="java_final_project_G12:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="archive" name="java_final_project_G12.jar">
+      <element id="module-output" name="java_final_project_G12" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jars/slick.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jars/lwjgl_util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jars/jorbis-0.0.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jars/jogg-0.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/jars/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/JDBC/mysql-connector-java-5.1.30-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jars/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="libs/jars/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="libs/jars/lwjgl.jar"/>
+	<classpathentry kind="lib" path="libs/jars/slick.jar"/>
+	<classpathentry kind="lib" path="libs/JDBC/mysql-connector-java-5.1.30-bin.jar"/>
+	<classpathentry kind="output" path="out/production/java_final_project_G12"/>
+</classpath>
